@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/test-task-3-HTML-SCSS-React/static/css/main.8c2dae71.css",
+    "main.js": "/test-task-3-HTML-SCSS-React/static/js/main.c2ad17b9.js",
+    "static/js/787.c76b231a.chunk.js": "/test-task-3-HTML-SCSS-React/static/js/787.c76b231a.chunk.js",
+    "static/media/bg.png": "/test-task-3-HTML-SCSS-React/static/media/bg.5568af93f7ee1e04cbed.png",
+    "static/media/Inter-ExtraBold.ttf": "/test-task-3-HTML-SCSS-React/static/media/Inter-ExtraBold.e4a4cb7133001f282a15.ttf",
+    "static/media/Inter-Bold.ttf": "/test-task-3-HTML-SCSS-React/static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
+    "static/media/Inter-Medium.ttf": "/test-task-3-HTML-SCSS-React/static/media/Inter-Medium.6dcbc9bed1ec438907ee.ttf",
+    "static/media/Inter-Regular.ttf": "/test-task-3-HTML-SCSS-React/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
+    "static/media/Montserrat-Light.ttf": "/test-task-3-HTML-SCSS-React/static/media/Montserrat-Light.6fcc9263a21be961d246.ttf",
+    "static/media/Montserrat-Regular.ttf": "/test-task-3-HTML-SCSS-React/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/bg-mobile.jpg": "/test-task-3-HTML-SCSS-React/static/media/bg-mobile.fefe6d4db808204cc69b.jpg",
+    "static/media/sprite.svg": "/test-task-3-HTML-SCSS-React/static/media/sprite.15a34e566f2aeac4cab2b6d1a9a6cee3.svg",
+    "static/media/logo.svg": "/test-task-3-HTML-SCSS-React/static/media/logo.2e08d1bd108cb8b2aee116b1817d851e.svg",
+    "index.html": "/test-task-3-HTML-SCSS-React/index.html",
+    "static/media/line.svg": "/test-task-3-HTML-SCSS-React/static/media/line.e54c78534812ceaf5439.svg",
+    "main.8c2dae71.css.map": "/test-task-3-HTML-SCSS-React/static/css/main.8c2dae71.css.map",
+    "main.c2ad17b9.js.map": "/test-task-3-HTML-SCSS-React/static/js/main.c2ad17b9.js.map",
+    "787.c76b231a.chunk.js.map": "/test-task-3-HTML-SCSS-React/static/js/787.c76b231a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c2dae71.css",
+    "static/js/main.c2ad17b9.js"
+  ]
+}
