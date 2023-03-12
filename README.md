@@ -1,9 +1,9 @@
 # Тестовое задание
 
 Используемые технологии:<br/>
-— HTML
-— CSS/SCSS
-— React
+— HTML<br/>
+— CSS/SCSS<br/>
+— React<br/>
 
 
 
