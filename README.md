@@ -1,3 +1,12 @@
+# Тестовое задание
+
+Используемые технологии:<br/>
+— HTML
+— CSS/SCSS
+— React
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
