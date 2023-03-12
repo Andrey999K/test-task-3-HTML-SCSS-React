@@ -1,5 +1,7 @@
 # Тестовое задание
 
+Демо: <https://andrey999k.github.io/test-task-3-HTML-SCSS-React/>
+
 Используемые технологии:<br/>
 — HTML<br/>
 — CSS/SCSS<br/>
